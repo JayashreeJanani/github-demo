@@ -1,0 +1,10 @@
+"SOAP STRUCTURE" =>envelop,header and body
+<SOAP-ENV:ENVELOPE xmlns:SOAP-NV="http://schemas.xmlsoap.org/>
+<SOAP-ENV:Header/>
+<ns2:getcourseDetailsResponse xmlns:ns2="http:...">
+<ns2:course>
+<ns2:id>course1<ns2:id>
+</ns2:course>
+</ns2:getcourseDetailsResponse>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelop>
